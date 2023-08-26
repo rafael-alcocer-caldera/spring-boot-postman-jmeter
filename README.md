@@ -18,7 +18,7 @@ This example was based on the following link:
 
 ## Instructions
 
-[PDF](documentation/Automating A Postman Test With JMeter.pdf)
+[PDF](https://github.com/rafael-alcocer-caldera/spring-boot-postman-jmeter/blob/main/documentation/Automating%20A%20Postman%20Test%20With%20JMeter.pdf)
 
 ## License
 
